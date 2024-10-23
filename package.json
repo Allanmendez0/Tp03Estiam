@@ -1,0 +1,19 @@
+npm	init	-y
+Generated	`package.json`	should	look	like	this:
+{
+		"name":	"hello-world-app",
+		"version":	"1.0.0",
+		"description":	"A	simple	Hello	World	Node.js	app",
+		"main":	"index.js",
+		"scripts":	{
+				"start":	"node	index.js"
+		},
+		"author":	"Your	Name",
+		"license":	"ISC"
+}
+3.	Push	your	code	to	GitHub:
+git	init
+git	add	.
+git	commit	-m	"Initial	commit"
+git	remote	add	origin	https://github.com/<your-username>/<repo-name>.git
+git	push	-u	origin	master
