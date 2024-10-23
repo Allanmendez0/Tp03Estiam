@@ -1,5 +1,4 @@
-npm	init	-y
-Generated	`package.json`	should	look	like	this:
+
 {
 		"name":	"hello-world-app",
 		"version":	"1.0.0",
